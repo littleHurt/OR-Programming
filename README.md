@@ -1,5 +1,5 @@
 # OR-Programming
-This is a simple practice in issue of Operation Research (OR). The repository contains two question of nonlinear integer programming. The content of questions and formula modules of answers were all uploaded.
+This is a simple practice in issue of Operation Research (OR). The repository contains two questions of nonlinear integer programming. The content of questions and formula modules of answers were all uploaded. 
 
 #### The codes of this repo was tested under the following environment: <h4>
 * Windows 10 with Intel(R) i7-6700 CPU @ 3.40GHz, RAM 16G;
