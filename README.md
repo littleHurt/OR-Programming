@@ -6,6 +6,5 @@ This is a simple practice in issue of Operation Research (OR). The repository co
 * Python 3.7.9 on Spyder IDE 4.2.0 (Anaconda3)
 
 #### Packages used: <h4>
-* NumPy 1.17
-* Pandas 0.25
 * [python-mip](https://github.com/coin-or/python-mip) 1.1.0
+* [docplex](http://ibmdecisionoptimization.github.io/docplex-doc/) 2.22.213
